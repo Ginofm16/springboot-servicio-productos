@@ -50,6 +50,7 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<!-- Dependencia Discovery -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>
